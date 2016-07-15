@@ -6,7 +6,7 @@ This library is NOT a view, but a ItemDecoration for RecyclerView.
 ```
 // get a RecyclerView
 recyclerView.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false));
-HorizontalStepDecoration stepDecoration = new HorizontalStepDecoration.Builder(this)//or VerticalHorizontal
+HorizontalStepDecoration stepDecoration = new HorizontalStepDecoration.Builder(this)//or VerticalStepDecoration
             .currentRes(R.drawable.step_current)
             .doneRes(R.drawable.step_done)
             .undoneRes(R.drawable.step_undone)
@@ -18,6 +18,11 @@ HorizontalStepDecoration stepDecoration = new HorizontalStepDecoration.Builder(t
             .build();
 recyclerView.addItemDecoration(stepDecoration);
 ```
+That's all code!
+You can run the example to see more.
+
+# Screen shot
+![image](https://github.com/shadowsong91/StepView/raw/master/screenshot/stepView-shot.png)
 
 # Thanks
 Idea from [StepView](https://github.com/baoyachi/StepView)  
