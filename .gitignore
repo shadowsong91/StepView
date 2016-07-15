@@ -1,0 +1,16 @@
+bin
+gen
+/obj/
+.gradle/
+.idea/
+build/
+/captures
+gradle/
+gradlew
+gradlew.bat
+/local.properties
+*.iml
+.DS_Store
+app/build/
+library/build/
+local.properties
