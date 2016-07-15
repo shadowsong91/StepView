@@ -1,7 +1,7 @@
 # StepView
 Step by step，just use HorizontalStepDecoration，VerticalStepDecoration. step indicator，flow indicator，timeline，order process，express status
 # ATTENTION
-This library is NOT a view, but a ItemDecoration for RecyclerView.
+This library is NOT a view, but a ItemDecoration for RecyclerView. It's easier to use, and can do the same as [StepView](https://github.com/baoyachi/StepView)
 # How to use
 ```
 // get a RecyclerView
