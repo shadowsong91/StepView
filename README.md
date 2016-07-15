@@ -1,7 +1,7 @@
 # StepView
 Step by step，just use HorizontalStepDecoration，VerticalStepDecoration. step indicator，flow indicator，timeline，order process，express status
 # ATTENTION
-This library is NOT a view, but a ItemDecoration for RecyclerView. It's easier to use, and can do the same as [StepView](https://github.com/baoyachi/StepView)
+This library is NOT a view, but a ItemDecoration for RecyclerView. It's easier to use, and can do the same as [StepView](https://github.com/baoyachi/StepView) and [Android-StepsView](https://github.com/anton46/Android-StepsView)
 # How to use
 ```
 // get a RecyclerView
@@ -25,5 +25,5 @@ You can run the example to see more.
 ![image](https://github.com/shadowsong91/StepView/raw/master/screenshot/stepView-shot.png)
 
 # Thanks
-Idea from [StepView](https://github.com/baoyachi/StepView)  
+Idea from [StepView](https://github.com/baoyachi/StepView) and [Android-StepsView](https://github.com/anton46/Android-StepsView)  
 Icons from [iconfont](http://iconfont.cn/)
